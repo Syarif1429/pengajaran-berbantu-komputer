@@ -1,0 +1,11 @@
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\bin\Debug\Semua figure 3.1 - 3.16.exe.config
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\bin\Debug\Semua figure 3.1 - 3.16.exe
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\bin\Debug\Semua figure 3.1 - 3.16.pdb
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\bin\Debug\Semua figure 3.1 - 3.16.xml
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua_figure_3._1___3._16.Form1.resources
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua_figure_3._1___3._16.Resources.resources
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua figure 3.1 - 3.16.vbproj.GenerateResource.Cache
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua figure 3.1 - 3.16.exe
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua figure 3.1 - 3.16.xml
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua figure 3.1 - 3.16.pdb
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\Semua figure 3.1 - 3.16\Semua figure 3.1 - 3.16\obj\Debug\Semua figure 3.1 - 3.16.vbprojResolveAssemblyReference.cache

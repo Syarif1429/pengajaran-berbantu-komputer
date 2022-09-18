@@ -1,0 +1,11 @@
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\bin\Debug\figure 3.7 - 3.13.exe.config
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\bin\Debug\figure 3.7 - 3.13.exe
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\bin\Debug\figure 3.7 - 3.13.pdb
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\bin\Debug\figure 3.7 - 3.13.xml
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure_3._7___3._13.Form1.resources
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure_3._7___3._13.Resources.resources
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure 3.7 - 3.13.vbproj.GenerateResource.Cache
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure 3.7 - 3.13.exe
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure 3.7 - 3.13.xml
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure 3.7 - 3.13.pdb
+D:\Perkuliahan\My Repository\ABKC6503 (Pemrogaman Visual)\Perkuliahan\3. Writing Software\figure 3.7 - 3.13\figure 3.7 - 3.13\obj\Debug\figure 3.7 - 3.13.vbprojResolveAssemblyReference.cache
